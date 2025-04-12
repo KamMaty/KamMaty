@@ -33,7 +33,8 @@ A React-based e-commerce project with Stripe integration for payment processing.
 Features include product listing, shopping cart, and order management.
 
 📣 Let's Connect!
-LinkedIn: @Kamil_Matyasik(https://www.linkedin.com/in/kamil-matyasik-924786159/)
+
+LinkedIn: [Kamil Matyasik](https://www.linkedin.com/in/kamil-matyasik-924786159/)
 
 Email: kamamtyasik@gmail.com
 
