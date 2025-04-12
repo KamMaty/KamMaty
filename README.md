@@ -1,9 +1,8 @@
 Kamil Matyasik
+
 Welcome to my GitHub! I'm Kamil, a passionate frontend developer specializing in React and JavaScript. I'm constantly learning, building projects, and exploring new technologies.
 
 🚀 About Me
-
-
 
 👨‍💻 Frontend Developer focusing on React.js and JavaScript.
 
